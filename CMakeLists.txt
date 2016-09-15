@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 2.8)
 
+project(qjson)
+
 set(JSON_SRC
     qjson.h
     qjson.cpp)
