@@ -1,0 +1,2 @@
+/usr/bin/ar cr libqjson.a  CMakeFiles/qjson.dir/qjson.cpp.o
+/usr/bin/ranlib libqjson.a
